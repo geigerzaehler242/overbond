@@ -1,2 +1,9 @@
 # overbond
-bond curve test code
+bond curve benchmark test code
+
+run in xcode
+
+or
+
+use docker to run
+docker build -t myoverbond .
