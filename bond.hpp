@@ -2,7 +2,7 @@
 //  bond.hpp
 //  overbond
 //
-//  Created by fernando marto on 2021-06-07.
+//  
 //
 
 #ifndef bond_hpp
